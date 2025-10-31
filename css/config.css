@@ -1,0 +1,5 @@
+.tm-btn-submit {
+    padding: 2px 4px; /* diminui o tamanho interno do botão */
+    font-size: 0.4rem; /* diminui a fonte */
+    border-radius: 4px; /* opcional: deixa os cantos um pouco menores */
+}
