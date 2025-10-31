@@ -22,7 +22,30 @@
       </div>
 
       <section class="row tm-pt-4 tm-pb-6">
+        
         <div class="col-12 tm-page-cols-container">
+          <div class="tm-page-col-left tm-tab-links">
+            <ul class="tabs clearfix" data-tabgroup="first-tab-group">
+              <li>
+                <a href="#romance" class="active">
+                  <div class="tm-tab-icon"></div>
+                  Romance
+                </a>
+              </li>
+              <li>
+                <a href="#suspence" class="">
+                  <div class="tm-tab-icon"></div>
+                  Suspence
+                </a>
+              </li>
+              <li>
+                <a href="#terror" class="">
+                  <div class="tm-tab-icon"></div>
+                  Terror
+                </a>
+              </li>
+            </ul>
+          </div>
           <div class="tm-page-col-right">
             <h2 class="tm-text-secondary tm-mb-5">
               Organize sua leitura do seu jeito!
@@ -33,23 +56,32 @@
             </p>
             
           </div>
+          
         </div>
+        
       </section>
 
       <div class="tm-page-col-right">
         <div class="row tm-pt-7 tm-pb-6">
-
+          
+<!-- ROMANCE -->
           <div class="col-md-6 tm-home-section-2-left">
+            
             <div
               class="img-fluid tm-mb-4 tm-small-parallax"
               data-parallax="scroll"
-              data-image-src="img/mentirosos.jpg"></div>
-            <div>
+              data-image-src="img/carriesoto.jpg"
+              id="romance"
+              ></div>
+            <div >
               <h3 class="tm-text-secondary tm-mb-4">
-                Mentirosos
+                Carrie Soto está de volta
+
               </h3>
               <p class="tm-mb-5">
-                Mentirosos conta a história de Cadence, que após um acidente, precisa descobrir os segredos e mentiras da sua família em um verão cheio de revelações.              
+               Carrie Soto Está de Volta conta a história da tenista Carrie, que retorna às quadras, enfrenta adversários e desafios, e luta para provar que ainda é a melhor do mundo.
+
+           
               </p>
                 <div class="text-center">
                   <button
@@ -67,6 +99,7 @@
                 
                 </button>
                 </div>
+                <br>
                 <br>
             </div>
           </div>
@@ -104,17 +137,21 @@
 
             </div>
           </div>
+          <!-- SUSPENCE -->
+
           <div class="col-md-6 tm-home-section-2-right">
             <div
               class="img-fluid tm-mb-4 tm-small-parallax"
               data-parallax="scroll"
-              data-image-src="img/carriesoto.jpg"></div>
+              data-image-src="img/mentirosos.jpg"
+              id="suspence"
+              ></div>
             <div>
               <h3 class="tm-text-secondary tm-mb-4">
-                Carrie Soto está de volta
+                Mentirosos
               </h3>
               <p class="tm-section-2-text">
-                Carrie Soto Está de Volta conta a história da tenista Carrie, que retorna às quadras, enfrenta adversários e desafios, e luta para provar que ainda é a melhor do mundo.              
+              Mentirosos conta a história de Cadence, que após um acidente, precisa descobrir os segredos e mentiras da sua família em um verão cheio de revelações.
               </p>
               
             </div>
