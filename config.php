@@ -51,7 +51,11 @@
               Organize sua leitura do seu jeito!
             </h2>
             <p class="tm-mb-6">
-             No nosso acervo virtual, você pode classificar os livros como Empréstimos, Lidos ou Desejados, facilitando o acompanhamento das suas leituras e ajudando a planejar suas próximas descobertas literárias.
+             No nosso acervo virtual, você tem a liberdade de organizar e acompanhar sua jornada literária de forma simples e personalizada. É possível classificar cada obra como Empréstimo, Lido ou Desejado, mantendo um controle completo sobre os livros que já passaram por suas mãos, aqueles que ainda quer explorar e os que estão em andamento. 
+             <br>
+             <br>
+             Essa funcionalidade facilita o acompanhamento das suas leituras, ajuda a planejar futuras descobertas e torna sua experiência de leitura mais envolvente, prática e prazerosa.
+
               
             </p>
             
@@ -87,7 +91,7 @@
                   <button
                     type="button"
                     class="btn btn-secondary tm-btn-submit">
-                    Préstimos
+                    Pegos
                   </button>
                   <button
                     type="button"
@@ -121,7 +125,7 @@
                   <button
                     type="button"
                     class="btn btn-secondary tm-btn-submit">
-                    Préstimos
+                    Pegos
                   </button>
                   <button
                     type="button"
@@ -139,27 +143,24 @@
           </div>
           <!-- SUSPENCE -->
 
-          <div class="col-md-6 tm-home-section-2-right">
+          <div class="col-md-6 tm-home-section-2-left">
             <div
               class="img-fluid tm-mb-4 tm-small-parallax"
               data-parallax="scroll"
-              data-image-src="img/mentirosos.jpg"
-              id="suspence"
-              ></div>
+              data-image-src="img/paciente.jpg"></div>
             <div>
               <h3 class="tm-text-secondary tm-mb-4">
-                Mentirosos
+                A Paciente Silenciosa
               </h3>
-              <p class="tm-section-2-text">
-              Mentirosos conta a história de Cadence, que após um acidente, precisa descobrir os segredos e mentiras da sua família em um verão cheio de revelações.
+              <p class="tm-mb-5">
+                A Paciente Silenciosa acompanha Alicia, uma pintora que, após atirar no marido, para de falar, e Theo, o terapeuta que tenta descobrir o motivo por trás de seu silêncio.        
               </p>
               
-            </div>
-              <div class="text-center">
+            <div class="text-center">
                   <button
                     type="button"
                     class="btn btn-secondary tm-btn-submit">
-                    Préstimos
+                    Pegos
                   </button>
                   <button
                     type="button"
@@ -174,9 +175,83 @@
                 <br>
 
             </div>
-            
           </div>
+
+          <div class="col-md-6 tm-home-section-2-right">
+            <div
+              class="img-fluid tm-mb-4 tm-small-parallax"
+              data-parallax="scroll"
+              data-image-src="img/mentirosos.jpg"
+              id="suspence"
+              ></div>
+            <div>
+              <h3 class="tm-text-secondary tm-mb-4">
+                Mentirosos
+              </h3>
+              <p class="tm-section-2-text">
+              Mentirosos conta a história de Cadence, que após um acidente, precisa descobrir os segredos e mentiras da sua família em um verão cheio de revelações.
+              </p>
+              <br>
+            </div>
+              <div class="text-center">
+                  <button
+                    type="button"
+                    class="btn btn-secondary tm-btn-submit">
+                    Pegos
+                  </button>
+                  <button
+                    type="button"
+                    class="btn btn-secondary tm-btn-submit">
+                    Lidos
+                  </button>
+                 <button type="button" class="btn btn-secondary tm-btn-submit">
+                    <img src="img/presente.png">
+                
+                </button>
+                </div>
+                <br>
+                <br>
+<!-- TERROR -->
+            </div>
+            <div class="col-md-6 tm-home-section-2-left">
+            <div
+              class="img-fluid tm-mb-4 tm-small-parallax"
+              data-parallax="scroll"
+              data-image-src="img/it.jpg"
+              id="terror"></div>
+            <div>
+              <h3 class="tm-text-secondary tm-mb-4">
+                It: A Coisa
+              </h3>
+              <p class="tm-mb-5">
+                It: A Coisa acompanha um grupo de amigos que enfrenta seus maiores medos ao encarar Pennywise, um palhaço assustador que aterroriza a cidade de Derry.       
+              </p>
+              
+            <div class="text-center">
+                  <button
+                    type="button"
+                    class="btn btn-secondary tm-btn-submit">
+                    Pegos
+                  </button>
+                  <button
+                    type="button"
+                    class="btn btn-secondary tm-btn-submit">
+                    Lidos
+                  </button>
+                 <button type="button" class="btn btn-secondary tm-btn-submit">
+                    <img src="img/presente.png">
+                
+                </button>
+                </div>
+                <br>
+
+            </div>
+          </div>
+          </div>
+
         </div>
+
+        
       </div>
       <!-- row -->
 

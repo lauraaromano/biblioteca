@@ -1,4 +1,9 @@
 <?php
+  include 'cabecalho.php';
+  include 'conexao.php'; // arquivo com sua conexão ao banco (ex: mysqli_connect)
+?>
+
+<?php
 $host = "localhost";
 $user = "root";
 $pass = "";
@@ -93,5 +98,6 @@ $conn->close();
             <p>ID do usuário não fornecido para edição.</p>
         <?php endif; ?>
     </div>
-</body>
-</html>
+<?php
+  include 'footer.php';
+?>

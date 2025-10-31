@@ -8,7 +8,7 @@ body {
   .container-edicao {
     max-width: 650px;
     margin: 50px auto;
-    background: #a2d4d4;
+    background: #d7e2e77e;
     padding: 30px;
     border-radius: 12px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
@@ -54,7 +54,7 @@ body {
   }
   
   .botoes-acao button.salvar {
-    background: #81dada;
+    background: #76c2c2;
     color: black;
     padding: 10px 20px;
     border: none;

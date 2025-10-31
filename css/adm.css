@@ -8,7 +8,7 @@ body {
   .container {
     max-width: 1000px;
     margin: auto;
-    background: #a2d4d4;
+    background: #d7e2e77e;
     padding: 30px;
     border-radius: 12px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
@@ -55,7 +55,7 @@ body {
   }
   
   button.pesquisa:hover {
-    background-color: #558888;
+    background-color: #669999;
     transform: scale(1.05);
   }
   
@@ -93,7 +93,7 @@ body {
   }
   
   .editar {
-    background: #81dada;
+    background: #ade2e2;
     color: black;
   }
   
