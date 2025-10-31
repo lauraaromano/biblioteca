@@ -1,4 +1,14 @@
 <?php
+session_start();
+
+// se o usuário não estiver logado, redireciona para login
+if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
+    header('Location: login.php');
+    exit;
+}
+?>
+
+<?php
   include 'cabecalho_painel.php';
   include 'conexao.php'; // arquivo com sua conexão ao banco (ex: mysqli_connect)
 ?>

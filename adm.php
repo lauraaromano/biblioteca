@@ -96,6 +96,13 @@ if ($pesquisa != "") {
         <?php endif; ?>
       </tbody>
     </table>
+
+    <!-- Botão de navegação -->
+    <div class="botao-navegacao">
+      <a href="estoque.php" class="botao-voltar">Ir para Painel de Estoque</a>
+    </div>
+  </div>
+
   </div>
 </body>
 </html>
