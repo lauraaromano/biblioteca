@@ -17,7 +17,7 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
          <div class="tm-page-col-left tm-welcome-box" 
             style="background-color: #669999;">
           <p class="tm-welcome-text">
-            <em>Usuário , seja bem-vindo a sua nova biblioteca virtual !</em>
+            <em>"Usuário , seja bem-vindo a sua nova biblioteca virtual !"</em>
           </p>
         </div>
 

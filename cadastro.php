@@ -75,10 +75,7 @@
       </div>
 
       <div class="text-center">
-       <button
-          type="button"
-          class="btn btn-secondary tm-btn-submit"
-          onclick="window.location.href='config.php'">
+        <button type="submit" class="btn btn-secondary tm-btn-submit">
           Cadastrar
         </button>
       </div>

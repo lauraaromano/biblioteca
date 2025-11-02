@@ -14,9 +14,10 @@ https://templatemo.com/tm-532-next-level
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/templatemo-style.css" />
     <link rel="stylesheet" href="css/dash.css" />
+
     <link rel="stylesheet" href="login.css">
-    <link rel="stylesheet" href="css/adm.css">
-    <link rel="stylesheet" href="css/editar_usuario.css">
+    <!-- <link rel="stylesheet" href="css/adm.css"> -->
+    <!-- <link rel="stylesheet" href="css/editar_usuario.css"> -->
     
 
   </head>

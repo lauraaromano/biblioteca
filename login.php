@@ -1,6 +1,3 @@
-
-
-
 <?php
   include 'cabecalho.php';
 ?>
@@ -13,7 +10,7 @@
 
   <!-- Coluna do formulário -->
   <div class="login-container">
-    <form action="dashboard.php" method="POST" id="tm_contact_form">
+    <form action="processar_login.php" method="POST" id="tm_contact_form">
       
       <h2>Entrar</h2>
 
@@ -42,10 +39,7 @@
       </div>
 
       <div class="text-center">
-        <button
-          type="button"
-          class="btn btn-secondary tm-btn-submit"
-          onclick="window.location.href='config.php'">
+        <button type="submit" class="btn btn-secondary tm-btn-submit">
           Entrar
         </button>
       </div>
